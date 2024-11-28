@@ -39,5 +39,4 @@ public class EmployeportalController {
 		return new ResponseEntity<>(customerList, HttpStatus.OK);
 	
 }
-
 }
